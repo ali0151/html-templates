@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+body{
+    background-image: url(.//image/bg.jpg);
+    background-size:cover;
+}
+
+img {
+    border-radius: 60px;
+    
+    margin-top: 50px;
+}
+#ali{
+    background-color:white;
+    margin-top: 60px;
+    width: 350px;
+    height: 400px;
+    margin-left: 499px;
+    
+}
+
+
+i{
+    margin-right: 25px;
+    border: 1px solid gray;
+    border-radius: 40px;
+    margin-top: 20px;
+    
+}
